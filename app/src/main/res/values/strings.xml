@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Socket Client</string>
+    <string name="server_address" />
+    <string name="server_address_default_key">localhost:port</string>
+</resources>
